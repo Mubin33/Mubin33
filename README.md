@@ -4,6 +4,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/JyXKBTD/f3614b5f-cd86-472b-b29a-119cd1bfba8e.jpg"  />
+</div>
+
+###
+
 <h1 align="left">MD. Yasin Arafat Mubin</h1>
 
 ###
@@ -63,8 +69,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mubin33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mubin33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mubin33&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Mubin33/Mubin33/output/snake.svg" alt="Snake animation" />
 
 ###
