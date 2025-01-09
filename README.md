@@ -17,7 +17,9 @@
 
 ###
 
-<p align="left">Hi, I’m MD. Yasin Arafat Mubin, a passionate Frontend Web Developer dedicated to crafting visually appealing and highly functional websites. With a strong foundation in web technologies like HTML, CSS, JavaScript, and React, I specialize in building responsive, user-centric interfaces that deliver exceptional user experiences.</p>
+<p align="left">I am a dedicated and passionate frontend developer with a strong foundation in modern web development technologies. As a student constantly striving to expand my skills, I specialize in building responsive and user-friendly interfaces using React, JavaScript, and Tailwind CSS. My expertise also extends to backend technologies like MongoDB, Firebase, and Express.js, enabling me to contribute to full-stack projects effectively.
+
+With a keen eye for detail and a commitment to delivering high-quality work, I am enthusiastic about creating seamless digital experiences. I am always eager to take on new challenges, learn cutting-edge technologies, and grow as a professional in the dynamic field of web development.</p>
 
 ###
 
