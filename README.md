@@ -85,7 +85,25 @@ With a keen eye for detail and a commitment to delivering high-quality work, I a
  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Mubin33&hide_border=true&card_width=492)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mubin33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> 
 
-<img src="https://raw.githubusercontent.com/Mubin33/Mubin33/output/snake.svg?sanitize=true" alt="Snake animation" />
+ - uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.Mubin33 }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 
 ###
