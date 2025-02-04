@@ -84,11 +84,8 @@ With a keen eye for detail and a commitment to delivering high-quality work, I a
 
  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Mubin33&hide_border=true&card_width=992)](https://git.io/streak-stats)
 
-
-<br clear="both">
-
+ 
 <img src="https://raw.githubusercontent.com/Mubin33/Mubin33/output/snake.svg" alt="Snake animation" />
-
 
 
 
