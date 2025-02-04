@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Front-End Web Developer</p>
+<p align="left">Front-End Web Developer || MERN Stack Developer</p>
 
 ###
 
