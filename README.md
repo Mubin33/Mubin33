@@ -7,9 +7,7 @@
 
 <h1 align="left">MD. Yasin Arafat Mubin</h1>
 
-
-<br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ 
 
 ###
 
@@ -79,6 +77,12 @@ With a keen eye for detail and a commitment to delivering high-quality work, I a
 </div>
 
 ###
+<br>
+<div align="center">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</div>
+
+
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Mubin33&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
