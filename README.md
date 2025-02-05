@@ -7,6 +7,10 @@
 
 <h1 align="left">MD. Yasin Arafat Mubin</h1>
 
+
+<br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 ###
 
 <p align="left">Front-End Web Developer || MERN Stack Developer</p>
