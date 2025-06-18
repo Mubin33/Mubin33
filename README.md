@@ -99,14 +99,10 @@ With a keen eye for detail and a commitment to delivering high-quality work, I a
 </div>
 
 ###
-
- [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Mubin33&hide_border=true&card_width=992)](https://git.io/streak-stats)
+ 
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Mubin33/count.svg?"  />
-</div>
+ 
 
 ###
  
