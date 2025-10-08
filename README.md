@@ -90,21 +90,3 @@ With a keen eye for detail and a commitment to delivering high-quality work, I a
 
 
 
-
-
-
-###
- 
-
-###
- 
-
-###
- 
-<img src="https://raw.githubusercontent.com/Mubin33/Mubin33/output/snake.svg" alt="Snake animation" />
-
-
-
-###
- 
-
