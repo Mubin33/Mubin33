@@ -57,6 +57,8 @@ With a keen eye for detail and a commitment to delivering high-quality work, I a
   <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" height="40" alt="python logo"  />
    <img width="12" />
   <img src="https://www.svgrepo.com/show/373554/django.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.creazilla.com/icons/3254134/nextjs-icon-icon-sm.png" height="40" alt="next js logo"  />
 </div>
 
 ###
