@@ -53,6 +53,8 @@ With a keen eye for detail and a commitment to delivering high-quality work, I a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png" height="40" alt="python logo"  />
 </div>
 
 ###
