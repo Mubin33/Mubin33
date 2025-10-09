@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">Front-End Web Developer || MERN Stack Developer</p>
+<p align="left">React.js, Next.js, Python(django) Developer || Full Stack Developer</p>
 
 ###
 
