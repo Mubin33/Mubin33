@@ -60,7 +60,7 @@ With a keen eye for detail and a commitment to delivering high-quality work, I a
   <img width="12" />
   <img src="https://cdn.creazilla.com/icons/3254134/nextjs-icon-icon-sm.png" height="40" alt="next js logo"  />
   <img width="12" />
-  <img src="https://cdn.creazilla.com/icons/3254134/nextjs-icon-icon-sm.png" height="40" alt="next js logo"  />
+  <img src="https://techblog.recochoku.jp/wp-content/uploads/2024/11/Typescript.png" height="40" alt="next js logo"  />
 </div>
 
 ###
