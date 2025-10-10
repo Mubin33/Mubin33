@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I am a dedicated and passionate frontend developer with a strong foundation in modern web development technologies. As a student constantly striving to expand my skills, I specialize in building responsive and user-friendly interfaces using React, Next.js, JavaScript, and Tailwind CSS. My expertise also extends to backend technologies like MongoDB, Firebase, and Express.js, enabling me to contribute to full-stack projects effectively.
+<p align="left">I am a dedicated and passionate frontend developer with a strong foundation in modern web development technologies. As a student constantly striving to expand my skills, I specialize in building responsive and user-friendly interfaces using React, Next.js, TypeScript, JavaScript, and Tailwind CSS. My expertise also extends to backend technologies like MongoDB, Firebase, and Express.js, enabling me to contribute to full-stack projects effectively.
 
 With a keen eye for detail and a commitment to delivering high-quality work, I am enthusiastic about creating seamless digital experiences. I am always eager to take on new challenges, learn cutting-edge technologies, and grow as a professional in the dynamic field of web development.</p>
 
