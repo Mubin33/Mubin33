@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">React.js, Next.js   Developer || Full Stack Developer</p>
+<p align="left">React.js, Next.js, Python(django) Developer || Full Stack Developer</p>
 
 ###
 
