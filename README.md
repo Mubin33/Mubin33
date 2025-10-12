@@ -3,17 +3,7 @@
 </div>
 
 
-###
 
-<h1 align="left">MD. Yasin Arafat Mubin</h1>
-
- 
-
-###
-
-<p align="left">React.js, Next.js, Python(django) Developer || Full Stack Developer</p>
-
-###
 
 <h2 align="left">About me</h2>
 
