@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img height="200" src="https://t3.ftcdn.net/jpg/03/91/99/28/360_F_391992895_jdfD6yVqnZ6uWyunjfuA6xVA0xNMvLIU.jpg"  />
-</div>
+
 
 ###
 
