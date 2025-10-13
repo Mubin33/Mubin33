@@ -24,8 +24,7 @@
 With a keen eye for detail and a commitment to delivering high-quality work, I am enthusiastic about creating seamless digital experiences. I am always eager to take on new challenges, learn cutting-edge technologies, and grow as a professional in the dynamic field of web development.</p>
 
 ###
-
-<h2 align="left">I code with</h2>
+ 
 
 ###
 
